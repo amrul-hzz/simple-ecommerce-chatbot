@@ -85,6 +85,7 @@ Menyimpan kebijakan garansi.
 - Requests (2.31.0) - HTTP client untuk komunikasi dengan Ollama API
 - Ollama - Large Language Model server (dijalankan sebagai service terpisah)
 - Llama-3.2:3b - Model bahasa dari Meta dengan 3 miliar parameter
+- LangChain (Optional, used if available) - Framework untuk aplikasi LLM dengan abstraksi chain dan prompt templates
 
 ## Configuration Management
 - Python-dotenv (1.0.0) - Loading environment variables dari file .env
